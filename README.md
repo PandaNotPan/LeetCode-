@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode刷题笔记
+个人的LeetCode刷题笔记
